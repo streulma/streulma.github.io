@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /dev.andantefavore.be/
+Disallow: /dev.nondesax.be/
+Disallow: /dev.grootveld.github.io/
+Disallow: /dev.ivanheylen.be/
